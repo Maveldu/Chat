@@ -1,9 +1,11 @@
-#Chat server
->Small online chat for thin client.
-##What does it do?
+# Chat server
+Small online chat for thin client.
+
+## What does it do?
 This server allows a thin client (telnet) to connect (port 2016) in order to chat with other clients.
-The client can use different chat rooms and have access to different commands.
-###Available commands :
+The client can use differents chat rooms and have access to multiple commands.
+
+### Available commands :
 For any user
 ```
 [Message] – Send a message to everyone in your chatroom
